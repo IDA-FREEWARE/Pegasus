@@ -4,4 +4,3 @@ This tool increases the number of likes on YouTube clips
 ---
 The tool must be run as administrator otherwise the tool will not work
 -
-Enjoy
